@@ -61,7 +61,7 @@ Conversion	Ctrl d	SegmentFocusRight
 Conversion	Ctrl e	ConvertPrev
 Conversion	Ctrl f	SegmentFocusRight
 Conversion	Ctrl h	Cancel
-Conversion	Ctrl i	SegmentWidthShrink
+Conversion	Ctrl i	SegmentWidthExpand
 Conversion	Ctrl j	DisplayAsHiragana
 Conversion	Ctrl k	DisplayAsFullKatakana
 Conversion	Ctrl l	DisplayAsFullAlphanumeric
@@ -71,6 +71,7 @@ Conversion	Ctrl o	SegmentWidthExpand
 Conversion	Ctrl p	ConvertPrev
 Conversion	Ctrl q	SegmentWidthShrink
 Conversion	Ctrl s	SegmentFocusLeft
+Conversion	Ctrl u	SegmentWidthShrink
 Conversion	Ctrl w	SegmentWidthExpand
 Conversion	Ctrl x	ConvertNext
 Conversion	Down	ConvertNext
